@@ -1,2 +1,2 @@
 # Form-Input
-Form Input validation with Javascript
+A responsive registration form built with HTML, CSS, and JavaScript with real-time input validation.
